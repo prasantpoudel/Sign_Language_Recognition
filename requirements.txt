@@ -1,0 +1,8 @@
+cv2
+mediapipe
+cvzone
+tensorflow
+pandas
+numpy
+keras
+sklearn
